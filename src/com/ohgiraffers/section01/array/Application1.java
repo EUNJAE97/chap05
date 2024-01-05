@@ -16,7 +16,6 @@ public class Application1 {
         for (int i = 0, value = 0; i < arr.length; i++) {
             arr[i] = value += 10;
 
-
         }
         /* 일반적인 변수처럼 사용할 수도 있다. */
         int sum = 0;
